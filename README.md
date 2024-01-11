@@ -1,4 +1,5 @@
 # ZubCoin
-This will be the launch of a new custom token called ZubCoin on the ethereum blockchain. It will be coded in solidity and tested on test networks, then possibly deployed on-chain
 
-A contract will be written to deploy the token complete with mint, whitelistMint, transfer and burn functions for the token, ZubCoin
+* PLANNED FUTURE PROJECT *
+
+This project will be a fully functioning token built using Solidity. The primary goal is to eventually be deployable to the Ethereum blockchain. It will be tested on gasless test networks
